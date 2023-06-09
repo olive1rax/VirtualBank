@@ -24,7 +24,7 @@ public class Main {
         System.out.println(mensagem);
 
         int grausFarInt = (int) grausF;
-        System.out.println("A temperatura em Fahrenheit inteira é: " + grausFarInt);
+        System.out.println("A temperatura em Fahrenheit inteira é:  " + grausFarInt);
 
 
 
