@@ -50,7 +50,7 @@ public class VirtualBank {
                 System.out.println("Aplicação encerrada.");
 
             } else if (opcao != 4) {
-                System.out.println("Opção inválida.");
+                System.out.println("Opção inválida, escolha outra ou encerre a aplicação.");
             }
         }
     }
